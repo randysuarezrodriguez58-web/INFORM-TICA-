@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Informática Básica</title>
+    <style>
+        body {
+            font-family: Arial;
+            margin: 0;
+            padding: 20px;
+            background: #f0f0f0;
+        }
+        .contenedor {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+        }
+        h1 { color: #2c3e50; }
+        .tema {
+            background: #e8f4f8;
+            margin: 15px 0;
+            padding: 15px;
+            border-left: 5px solid #3498db;
+        }
+    </style>
+</head>
+<body>
+    <div class="contenedor">
+        <h1>📚 Conceptos de Informática</h1>
+        
+        <div class="tema">
+            <h3>💻 Hardware</h3>
+            <p>Partes físicas de una computadora: CPU, RAM, disco duro, placa madre, etc.</p>
+        </div>
+        
+        <div class="tema">
+            <h3>🖥️ Software</h3>
+            <p>Programas y sistemas operativos: Windows, Linux, apps, navegadores.</p>
+        </div>
+        
+        <div class="tema">
+            <h3>🌐 Internet</h3>
+            <p>Red mundial que conecta computadoras. Protocolo HTTP, navegadores web.</p>
+        </div>
+        
+        <div class="tema">
+            <h3>🔐 Seguridad</h3>
+            <p>Antivirus, contraseñas seguras, evitar phishing y estafas online.</p>
+        </div>
+        
+        <p><small>Creado con GitHub Pages - Aprendiendo informática</small></p>
+    </div>
+</body>
+</html>
